@@ -5,6 +5,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 
 }
 .nav-title{
@@ -37,4 +38,16 @@ nav a{
     font-size: 20px;
     font-weight: 700px;
     padding: 12px 25px;
+}
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    
+}
+.pro-pic{
+    width: 500px;
 }
